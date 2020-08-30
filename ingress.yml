@@ -1,5 +1,7 @@
 gcloud config set project smooth-ocean-179719
 gcloud config set compute/zone us-central1-a
+gcloud container clusters get-credentials cluster-1
+
 
 
 Prerequisite
